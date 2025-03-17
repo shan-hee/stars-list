@@ -11,13 +11,24 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - run: pip install requests
-      - run: python update_stars.py
-        env:
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          GITHUB_REPO: ${{ github.repository }}
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Generate stars list
+        run: python update_stars.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "更新 GitHub Stars 列表"
+          git push
