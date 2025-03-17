@@ -1,162 +1,23 @@
-import os
-import requests
-import json
-import time
-import base64
-from datetime import datetime
+name: Update GitHub Stars
 
-# GitHub API 相关信息
-GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_REPO = os.environ.get("GITHUB_REPO")
-OUTPUT_FILE = "README.md"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
-def get_starred_repos():
-    """获取用户的所有star项目"""
-    # 打印调试信息
-    print(f"正在获取用户 {GITHUB_USERNAME} 的star列表")
-    print(f"Token是否存在: {bool(GITHUB_TOKEN)}")
-    
-    all_stars = []
-    page = 1
-    
-    while True:
-        url = f"https://api.github.com/users/{GITHUB_USERNAME}/starred?page={page}&per_page=100"
-        headers = {
-            "Accept": "application/vnd.github.v3+json"
-        }
-        
-        # 如果有token，添加授权头
-        if GITHUB_TOKEN:
-            headers["Authorization"] = f"token {GITHUB_TOKEN}"
-        
-        print(f"请求URL: {url}")
-        
-        try:
-            response = requests.get(url, headers=headers)
-            
-            print(f"API响应状态码: {response.status_code}")
-            
-            if response.status_code != 200:
-                print(f"获取starred仓库失败: {response.status_code}")
-                print(f"响应内容: {response.text}")
-                break
-                
-            repos = response.json()
-            if not repos:
-                print("页面没有更多仓库，结束获取")
-                break
-                
-            print(f"获取到第{page}页，共{len(repos)}个仓库")
-            all_stars.extend(repos)
-            page += 1
-            
-            # 避免触发GitHub API速率限制
-            time.sleep(1)
-        except Exception as e:
-            print(f"发生异常: {str(e)}")
-            break
-    
-    print(f"总共获取到{len(all_stars)}个starred仓库")
-    return all_stars
-
-def generate_stars_list(starred_repos):
-    """生成格式化的stars列表"""
-    print("正在生成stars列表...")
-    
-    content = "# 我的GitHub Stars\n\n"
-    content += f"*最后更新于: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*\n\n"
-    content += "| 项目名 | About |\n"
-    content += "| ------ | ----- |\n"
-    
-    for repo in starred_repos:
-        name = repo["full_name"]
-        about = repo["description"] or "无描述"
-        about = about.replace("\n", " ").replace("|", "\\|")  # 处理markdown表格中的特殊字符
-        content += f"| [{name}]({repo['html_url']}) | {about} |\n"
-    
-    print("生成完成!")
-    return content
-
-def update_readme(content):
-    """更新README.md文件"""
-    print(f"准备更新仓库 {GITHUB_USERNAME}/{GITHUB_REPO} 中的 {OUTPUT_FILE}")
-    
-    url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{OUTPUT_FILE}"
-    headers = {
-        "Accept": "application/vnd.github.v3+json"
-    }
-    
-    # 如果有token，添加授权头
-    if GITHUB_TOKEN:
-        headers["Authorization"] = f"token {GITHUB_TOKEN}"
-    
-    try:
-        # 检查是否已存在README文件
-        print(f"检查文件是否存在: {url}")
-        response = requests.get(url, headers=headers)
-        print(f"检查文件状态码: {response.status_code}")
-        
-        encoded_content = base64.b64encode(content.encode("utf-8")).decode("utf-8")
-        
-        if response.status_code == 200:
-            # 文件存在，更新它
-            file_data = response.json()
-            update_data = {
-                "message": "自动更新GitHub Stars列表",
-                "content": encoded_content,
-                "sha": file_data["sha"]
-            }
-            print("文件已存在，准备更新...")
-            response = requests.put(url, headers=headers, data=json.dumps(update_data))
-        else:
-            # 文件不存在，创建它
-            create_data = {
-                "message": "创建GitHub Stars列表",
-                "content": encoded_content
-            }
-            print("文件不存在，准备创建...")
-            response = requests.put(url, headers=headers, data=json.dumps(create_data))
-        
-        print(f"更新/创建操作状态码: {response.status_code}")
-        
-        if response.status_code not in [200, 201]:
-            print(f"更新README失败: {response.status_code}")
-            print(f"响应内容: {response.text}")
-        else:
-            print("README更新成功!")
-            
-    except Exception as e:
-        print(f"更新README时发生异常: {str(e)}")
-
-def main():
-    """主函数"""
-    print("===== 开始执行 =====")
-    print(f"GITHUB_USERNAME: {GITHUB_USERNAME}")
-    print(f"GITHUB_REPO: {GITHUB_REPO}")
-    print(f"GITHUB_TOKEN是否设置: {bool(GITHUB_TOKEN)}")
-    
-    # 检查环境变量
-    missing_vars = []
-    if not GITHUB_USERNAME:
-        missing_vars.append("GITHUB_USERNAME")
-    if not GITHUB_TOKEN:
-        missing_vars.append("GITHUB_TOKEN")
-    if not GITHUB_REPO:
-        missing_vars.append("GITHUB_REPO")
-    
-    if missing_vars:
-        print(f"错误: 缺少以下环境变量: {', '.join(missing_vars)}")
-        return
-    
-    starred_repos = get_starred_repos()
-    if starred_repos:
-        content = generate_stars_list(starred_repos)
-        update_readme(content)
-    else:
-        print("没有找到star的仓库或获取失败")
-    
-    print("===== 执行完成 =====")
-
-if __name__ == "__main__":
-    main()
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - run: pip install requests
+      - run: python update_stars.py
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_REPO: ${{ github.repository }}
