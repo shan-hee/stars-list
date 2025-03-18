@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-03-18 01:20:39*
+*最后更新于: 2025-03-18 08:46:38*
 
 | 项目名 | About |
 | ------ | ----- |
+| [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket! |
 | [teralomaniac/clewd](https://github.com/teralomaniac/clewd) | clewd修改版 by tera |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
 | [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows 7 through 11. |
