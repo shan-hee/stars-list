@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-03-19 01:21:05*
+*最后更新于: 2025-03-20 01:20:06*
 
 | 项目名 | About |
 | ------ | ----- |
+| [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) | 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你 |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting. |
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket! |
 | [teralomaniac/clewd](https://github.com/teralomaniac/clewd) | clewd修改版 by tera |
