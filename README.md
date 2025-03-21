@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-03-20 01:20:06*
+*最后更新于: 2025-03-21 01:21:36*
 
 | 项目名 | About |
 | ------ | ----- |
+| [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save) | 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙 |
 | [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) | 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你 |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting. |
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket! |
@@ -52,7 +53,7 @@
 | [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 \| CT8 \| VPS \| 游戏机 \| sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 |
 | [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) | 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。 |
 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
-| [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00三合一代理脚本【独家支持网页端四大功能：保活、重启、重置端口，查看节点】 |
+| [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Serv00/Hostuno三合一代理脚本【独家支持网页端四大功能：保活、重启、重置端口，查看节点】 |
 | [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) | CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP |
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针 等, 自动化部署、批量保号、进程防杀、消息推送 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
