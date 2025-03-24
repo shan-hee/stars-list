@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-03-23 01:26:15*
+*最后更新于: 2025-03-24 01:23:26*
 
 | 项目名 | About |
 | ------ | ----- |
+| [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) | 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file |
 | [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save) | 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙 |
 | [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) | 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你 |
 | [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting. |
