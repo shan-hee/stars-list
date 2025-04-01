@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-03-31 01:25:51*
+*最后更新于: 2025-04-01 01:39:31*
 
 | 项目名 | About |
 | ------ | ----- |
+| [J3n5en/curs0r-release](https://github.com/J3n5en/curs0r-release) | 无描述 |
 | [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) | 🚀 一键部署个人的 ChatGPT 镜像站 |
 | [lanqian528/chat2api](https://github.com/lanqian528/chat2api) | A service that can convert ChatGPT on the web to OpenAI API format. |
 | [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better. |
