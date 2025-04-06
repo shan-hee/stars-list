@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-04-05 01:20:54*
+*最后更新于: 2025-04-06 01:27:05*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -67,7 +67,7 @@
 | [yonggekkk/Cloudflare_vless_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) | CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP |
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针\|面板 等, 自动化部署、批量保号、进程防杀、消息推送 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
-| [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) | VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用 ==> https://github.com/oneclickvirt/ecs |
+| [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) | VPS融合怪服务器测评项目(VPS Fusion Monster Server Test Script) 更推荐使用无环境依赖的=>https://github.com/oneclickvirt/ecs |
 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)  |
 | [cmliu/socks5-for-serv00](https://github.com/cmliu/socks5-for-serv00) | 在 Serv00 和 CT8 机器上一步到位地安装和配置 SOCKS5 & nezha-agent，并将其用于 cmliu/edgetunnel 项目，帮助解锁 ChatGPT 等服务。通过一键脚本实现代理安装，使用 Crontab 保持进程活跃，并借助 GitHub Actions 实现帐号续期与自动化管理，确保长期稳定运行。 |
 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | DigitalPlat FreeDomain: Free Domain For Everyone |
