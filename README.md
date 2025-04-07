@@ -1,10 +1,9 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-04-06 01:27:05*
+*最后更新于: 2025-04-07 01:24:33*
 
 | 项目名 | About |
 | ------ | ----- |
-| [TSTerminal/TSTerm](https://github.com/TSTerminal/TSTerm) | A terminal written in TypeScript |
 | [cmliu/webssh](https://github.com/cmliu/webssh) | WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。 |
 | [yafoo/pushme-server](https://github.com/yafoo/pushme-server) | PushMe消息通知服务器 |
 | [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。 |
