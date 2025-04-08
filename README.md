@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-04-07 01:24:33*
+*最后更新于: 2025-04-08 01:22:29*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -30,7 +30,7 @@
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
 | [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) | ✨ Perfect virtual display for game streaming |
 | [bohesocool/you2api](https://github.com/bohesocool/you2api) | 无描述 |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1 |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. |
 | [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
