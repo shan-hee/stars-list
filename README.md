@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-04-24 01:24:34*
+*最后更新于: 2025-04-25 01:25:11*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -23,7 +23,7 @@
 | [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) | Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket! |
 | [teralomaniac/clewd](https://github.com/teralomaniac/clewd) | clewd修改版 by tera |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
-| [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows 7 through 11. |
+| [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. |
 | [xykt/NetQuality](https://github.com/xykt/NetQuality) | A script for network quality detection |
 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
