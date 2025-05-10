@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-05-09 01:26:42*
+*最后更新于: 2025-05-10 01:23:50*
 
 | 项目名 | About |
 | ------ | ----- |
+| [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) | 社区驱动的服务器脚本快捷收藏夹 |
 | [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具 |
 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ |
 | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | Free, simple, fast interactive diagrams for any GitHub repository |
