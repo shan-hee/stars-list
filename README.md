@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-05-13 01:27:54*
+*最后更新于: 2025-05-14 01:26:42*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -26,7 +26,7 @@
 | [teralomaniac/clewd](https://github.com/teralomaniac/clewd) | clewd修改版 by tera |
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
 | [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. |
-| [xykt/NetQuality](https://github.com/xykt/NetQuality) | A script for network quality detection |
+| [xykt/NetQuality](https://github.com/xykt/NetQuality) | 网络质量检测脚本 - Network Quality Check Script |
 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | Online collaborative Whiteboard that is simple, free, easy to use and  to deploy |
