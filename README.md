@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-05-16 01:27:50*
+*最后更新于: 2025-05-17 01:25:50*
 
 | 项目名 | About |
 | ------ | ----- |
+| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
 | [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) | 社区驱动的服务器脚本快捷收藏夹 |
 | [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具 |
 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ |
