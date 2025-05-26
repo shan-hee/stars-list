@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-05-25 01:43:06*
+*最后更新于: 2025-05-26 01:38:52*
 
 | 项目名 | About |
 | ------ | ----- |
+| [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
