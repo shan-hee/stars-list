@@ -1,15 +1,17 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-05-28 01:36:57*
+*最后更新于: 2025-05-29 01:36:40*
 
 | 项目名 | About |
 | ------ | ----- |
+| [linux-do/cdk](https://github.com/linux-do/cdk) | LINUX DO CD key |
+| [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
 | [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) | 社区驱动的服务器脚本快捷收藏夹 |
-| [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换合并，节点可用性，测速，重命名，导出为clash.meta/clash/base64/qx等等所有格式的订阅工具 |
+| [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具 |
 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ |
 | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | Free, simple, fast interactive diagrams for any GitHub repository |
 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
