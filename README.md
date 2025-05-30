@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-05-29 01:36:40*
+*最后更新于: 2025-05-30 01:26:13*
 
 | 项目名 | About |
 | ------ | ----- |
+| [dempfi/ayu](https://github.com/dempfi/ayu) | 🎨🖌 Modern Sublime Text theme |
 | [linux-do/cdk](https://github.com/linux-do/cdk) | LINUX DO CD key |
 | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
