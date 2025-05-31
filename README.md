@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-05-30 01:26:13*
+*最后更新于: 2025-05-31 01:26:25*
 
 | 项目名 | About |
 | ------ | ----- |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 | [dempfi/ayu](https://github.com/dempfi/ayu) | 🎨🖌 Modern Sublime Text theme |
 | [linux-do/cdk](https://github.com/linux-do/cdk) | LINUX DO CD key |
 | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot |
