@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-01 01:52:29*
+*最后更新于: 2025-06-02 01:41:10*
 
 | 项目名 | About |
 | ------ | ----- |
+| [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Interactive User Feedback MCP |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 | [dempfi/ayu](https://github.com/dempfi/ayu) | 🎨🖌 Modern Sublime Text theme |
 | [linux-do/cdk](https://github.com/linux-do/cdk) | LINUX DO CD key |
