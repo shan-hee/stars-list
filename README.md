@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-11 01:38:52*
+*最后更新于: 2025-06-12 01:37:43*
 
 | 项目名 | About |
 | ------ | ----- |
+| [containrrr/watchtower](https://github.com/containrrr/watchtower) | A process for automating Docker container base image updates.  |
 | [assimon/dujiaoka](https://github.com/assimon/dujiaoka) | 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 |
 | [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) | IDM Activation & Trail Reset Script |
 | [cedar2025/Xboard](https://github.com/cedar2025/Xboard) | High-performance panel based on V2board secondary development supporting new protocols and new features |
