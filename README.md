@@ -1,14 +1,15 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-15 01:46:57*
+*最后更新于: 2025-06-16 01:41:56*
 
 | 项目名 | About |
 | ------ | ----- |
+| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis |
 | [containrrr/watchtower](https://github.com/containrrr/watchtower) | A process for automating Docker container base image updates.  |
 | [assimon/dujiaoka](https://github.com/assimon/dujiaoka) | 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 |
 | [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) | IDM Activation & Trail Reset Script |
 | [cedar2025/Xboard](https://github.com/cedar2025/Xboard) | High-performance panel based on V2board secondary development supporting new protocols and new features |
-| [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Interactive User Feedback MCP |
+| [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility. |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 | [dempfi/ayu](https://github.com/dempfi/ayu) | 🎨🖌 Modern Sublime Text theme |
 | [linux-do/cdk](https://github.com/linux-do/cdk) | LINUX DO CD key |
