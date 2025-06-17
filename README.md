@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-16 01:41:56*
+*最后更新于: 2025-06-17 01:39:08*
 
 | 项目名 | About |
 | ------ | ----- |
+| [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
 | [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis |
 | [containrrr/watchtower](https://github.com/containrrr/watchtower) | A process for automating Docker container base image updates.  |
 | [assimon/dujiaoka](https://github.com/assimon/dujiaoka) | 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉 |
@@ -67,14 +68,13 @@
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
-| [ikunycj/auto-commit](https://github.com/ikunycj/auto-commit) | auto-commit，github自动提交工作流，点亮github提交历史，让github一片绿 |
 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
 | [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) | 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁 |
 | [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) | 开源节点订阅转换生成管理系统 |
 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages. |
 | [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site/ |
 | [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) | 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能 |
-| [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | Open-source file hosting solution based on CloudFlare Pages (Image hosting/File storage/Cloud drive) / 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘） |
+| [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘） |
 | [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) |
 | [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) | 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接 |
 | [vfhky/serv00_ct8_nezha](https://github.com/vfhky/serv00_ct8_nezha) | serv00和ct8主机一键安装哪吒探针和多主机保活 |
