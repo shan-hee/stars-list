@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-21 01:36:40*
+*最后更新于: 2025-06-22 01:46:24*
 
 | 项目名 | About |
 | ------ | ----- |
+| [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
 | [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化 |
 | [kleinrui/sub-box](https://github.com/kleinrui/sub-box) | 一个简单的订阅管理服务 |
 | [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) | 无描述 |
