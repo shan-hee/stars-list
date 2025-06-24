@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-23 01:44:58*
+*最后更新于: 2025-06-24 01:39:32*
 
 | 项目名 | About |
 | ------ | ----- |
+| [c0001/Clash.Meta](https://github.com/c0001/Clash.Meta) | Finally trustable official backup of  MetaCubeX/Clash.Meta project, self used only. |
 | [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
 | [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化 |
 | [kleinrui/sub-box](https://github.com/kleinrui/sub-box) | 一个简单的订阅管理服务 |
