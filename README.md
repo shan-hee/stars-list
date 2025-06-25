@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-24 01:39:32*
+*最后更新于: 2025-06-25 01:39:57*
 
 | 项目名 | About |
 | ------ | ----- |
+| [DustinWin/ruleset_geodata](https://github.com/DustinWin/ruleset_geodata) | 定制适合 Clash 内核、mihomo 内核和 sing-box 内核的 ruleset&geodata 文件 |
 | [c0001/Clash.Meta](https://github.com/c0001/Clash.Meta) | Finally trustable official backup of  MetaCubeX/Clash.Meta project, self used only. |
 | [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
 | [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化 |
@@ -25,7 +26,7 @@
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. |
-| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
+| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
 | [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) | 社区驱动的服务器脚本快捷收藏夹 |
 | [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换、测速、测活、流媒体检测、重命名、导出为clash.meta/clash/base64/qx等等所有格式的工具 |
 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ |
