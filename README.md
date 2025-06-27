@@ -1,9 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-26 01:38:47*
+*最后更新于: 2025-06-27 01:40:03*
 
 | 项目名 | About |
 | ------ | ----- |
+| [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 是一个多协议代理服务框架的瑞士军刀，设计用于轻量、灵活的网络代理与数据传输任务。 |
+| [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) | Fully customizable AI chatbot component for your website |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
 | [DustinWin/ruleset_geodata](https://github.com/DustinWin/ruleset_geodata) | 定制适合 Clash 内核、mihomo 内核和 sing-box 内核的 ruleset&geodata 文件 |
 | [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
