@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-28 01:36:10*
+*最后更新于: 2025-06-29 01:48:25*
 
 | 项目名 | About |
 | ------ | ----- |
+| [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go. |
 | [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. |
 | [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 是一个多协议代理服务框架的瑞士军刀，设计用于轻量、灵活的网络代理与数据传输任务。 |
 | [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) | Fully customizable AI chatbot component for your website |
@@ -38,7 +39,7 @@
 | [shan-hee/EasySSH](https://github.com/shan-hee/EasySSH) | 一个基于Web的现代化SSH客户端，提供高效、安全、易用的远程服务器管理体验 |
 | [cmliu/webssh](https://github.com/cmliu/webssh) | WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。 |
 | [yafoo/pushme-server](https://github.com/yafoo/pushme-server) | PushMe消息通知服务器 |
-| [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。 |
+| [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。 |
 | [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) | 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端） |
 | [J3n5en/curs0r-release](https://github.com/J3n5en/curs0r-release) | 无描述 |
 | [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) | 🚀 一键部署个人的 ChatGPT 镜像站 |
@@ -53,7 +54,7 @@
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
 | [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. |
 | [xykt/NetQuality](https://github.com/xykt/NetQuality) | 网络质量检测脚本 - Network Quality Check Script |
-| [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. |
+| [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites. |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | Online collaborative Whiteboard that is simple, free, easy to use and  to deploy |
 | [usememos/memos](https://github.com/usememos/memos) | A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. |
