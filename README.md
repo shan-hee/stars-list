@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-06-30 01:44:21*
+*最后更新于: 2025-07-01 01:49:34*
 
 | 项目名 | About |
 | ------ | ----- |
+| [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go. |
 | [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. |
 | [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 是一个多协议代理服务框架的瑞士军刀，设计用于轻量、灵活的网络代理与数据传输任务。 |
