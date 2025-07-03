@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-07-02 01:39:34*
+*最后更新于: 2025-07-03 01:39:53*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -65,7 +65,7 @@
 | [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) | ✨ Perfect virtual display for game streaming |
 | [bohesocool/you2api](https://github.com/bohesocool/you2api) | 无描述 |
 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. |
-| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | End to end, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译 |
+| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
