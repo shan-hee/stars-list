@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-07-04 01:39:12*
+*最后更新于: 2025-07-05 01:27:37*
 
 | 项目名 | About |
 | ------ | ----- |
+| [getAsterisk/claudia](https://github.com/getAsterisk/claudia) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go. |
 | [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. |
