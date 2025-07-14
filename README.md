@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-07-13 01:51:26*
+*最后更新于: 2025-07-14 01:47:16*
 
 | 项目名 | About |
 | ------ | ----- |
+| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 | [ivanhao/pvetools](https://github.com/ivanhao/pvetools) | proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme. |
 | [getAsterisk/claudia](https://github.com/getAsterisk/claudia) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
