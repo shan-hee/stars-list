@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-07-19 01:41:26*
+*最后更新于: 2025-07-20 01:52:57*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -41,6 +41,7 @@
 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ |
 | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | Free, simple, fast interactive diagrams for any GitHub repository |
 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [shan-hee/EasySSH](https://github.com/shan-hee/EasySSH) | 一个基于Web的现代化SSH客户端，提供高效、安全、易用的远程服务器管理体验 |
 | [cmliu/webssh](https://github.com/cmliu/webssh) | WebSSH 是一个基于 Web 的轻量级 SSH 管理工具，方便地在浏览器中进行安全的远程服务器管理。 |
 | [yafoo/pushme-server](https://github.com/yafoo/pushme-server) | PushMe消息通知服务器 |
 | [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 UnoCSS。 |
