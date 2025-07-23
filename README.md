@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-07-22 01:45:26*
+*最后更新于: 2025-07-23 01:46:27*
 
 | 项目名 | About |
 | ------ | ----- |
+| [imzyb/MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 | [ivanhao/pvetools](https://github.com/ivanhao/pvetools) | proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme. |
