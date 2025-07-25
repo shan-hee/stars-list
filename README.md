@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-07-24 01:45:28*
+*最后更新于: 2025-07-25 01:45:07*
 
 | 项目名 | About |
 | ------ | ----- |
+| [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. |
 | [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes. |
 | [imzyb/MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
