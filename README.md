@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-02 01:42:27*
+*最后更新于: 2025-08-03 01:55:08*
 
 | 项目名 | About |
 | ------ | ----- |
+| [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | Lightweight MCP Server for Computer Use in Windows |
 | [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) | The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. |
 | [isc30/ryzen-gpu-passthrough-proxmox](https://github.com/isc30/ryzen-gpu-passthrough-proxmox) | Get the Ryzen processors with AMD Radeon 680M/780M integrated graphics or RDNA2/RDNA3 GPUs running with Proxmox, GPU passthrough and UEFI included. |
 | [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. |
