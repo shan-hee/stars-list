@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-05 01:49:59*
+*最后更新于: 2025-08-06 01:48:41*
 
 | 项目名 | About |
 | ------ | ----- |
+| [apache/echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser |
 | [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration) | This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use. |
 | [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | Lightweight MCP Server for Computer Use in Windows |
 | [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) | The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. |
@@ -23,7 +24,7 @@
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
 | [DustinWin/ruleset_geodata](https://github.com/DustinWin/ruleset_geodata) | 定制适合 Clash 内核、mihomo 内核和 sing-box 内核的 ruleset&geodata 文件 |
 | [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
-| [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化 |
+| [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化(mac版本>=v9.27.2暂不可用) |
 | [kleinrui/sub-box](https://github.com/kleinrui/sub-box) | 一个简单的订阅管理服务 |
 | [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) | 无描述 |
 | [yuju520/YujuToolBox](https://github.com/yuju520/YujuToolBox) | 一个Shell脚本工具箱 |
