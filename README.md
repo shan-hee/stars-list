@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-06 01:48:41*
+*最后更新于: 2025-08-07 01:48:49*
 
 | 项目名 | About |
 | ------ | ----- |
+| [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
 | [apache/echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser |
 | [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration) | This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use. |
 | [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | Lightweight MCP Server for Computer Use in Windows |
