@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-11 01:48:38*
+*最后更新于: 2025-08-12 01:38:21*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -103,7 +103,7 @@
 | [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) | 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接 |
 | [vfhky/serv00_ct8_nezha](https://github.com/vfhky/serv00_ct8_nezha) | serv00和ct8主机一键安装哪吒探针和多主机保活 |
 | [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) | 基于nginx-proxy-manager翻译的中文版本 |
-| [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 \| CT8 \| VPS \| 游戏机 \| sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 |
+| [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 \| CT8 \| Hostuno \| VPS \| 游戏机 \| sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞 |
 | [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) | 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。 |
 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
 | [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶四合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本 |
