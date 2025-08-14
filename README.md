@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-13 01:40:00*
+*最后更新于: 2025-08-14 01:40:38*
 
 | 项目名 | About |
 | ------ | ----- |
+| [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | A terminal for the web |
 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
 | [apache/echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser |
 | [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration) | This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use. |
@@ -23,7 +24,7 @@
 | [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 是一个多协议代理服务框架的瑞士军刀，设计用于轻量、灵活的网络代理与数据传输任务。 |
 | [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) | Fully customizable AI chatbot component for your website |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
-| [DustinWin/ruleset_geodata](https://github.com/DustinWin/ruleset_geodata) | 定制适合 Clash 内核、mihomo 内核和 sing-box 内核的 ruleset&geodata 文件 |
+| [DustinWin/ruleset_geodata](https://github.com/DustinWin/ruleset_geodata) | 定制适合 Clash、mihomo 和 sing-box 内核的 ruleset&geodata 文件 |
 | [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
 | [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化(mac版本>=v9.27.2暂不可用) |
 | [kleinrui/sub-box](https://github.com/kleinrui/sub-box) | 一个简单的订阅管理服务 |
