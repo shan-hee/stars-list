@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-14 01:40:38*
+*最后更新于: 2025-08-15 01:40:59*
 
 | 项目名 | About |
 | ------ | ----- |
+| [MoonWeSif/qadchat](https://github.com/MoonWeSif/qadchat) | 一款优雅易用的 AI Web应用，基于 NextChat 二次开发，添加了许多新特性、新功能！ |
 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | A terminal for the web |
 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
 | [apache/echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser |
