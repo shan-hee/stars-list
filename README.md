@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-18 01:46:21*
+*最后更新于: 2025-08-19 01:27:29*
 
 | 项目名 | About |
 | ------ | ----- |
+| [Archeb/opentrace](https://github.com/Archeb/opentrace) | A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。 |
 | [MoonWeSif/qadchat](https://github.com/MoonWeSif/qadchat) | 一款优雅易用的 AI Web应用，基于 NextChat 二次开发，添加了许多新特性、新功能！ |
 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | A terminal for the web |
 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
