@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-25 01:37:42*
+*最后更新于: 2025-08-26 01:26:15*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -20,7 +20,7 @@
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 | [ivanhao/pvetools](https://github.com/ivanhao/pvetools) | proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme. |
-| [getAsterisk/claudia](https://github.com/getAsterisk/claudia) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
+| [getAsterisk/gooey](https://github.com/getAsterisk/gooey) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation. |
 | [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown AI note-taking software. |
