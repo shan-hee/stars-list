@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-08-27 01:23:56*
+*最后更新于: 2025-08-28 01:23:08*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -22,7 +22,7 @@
 | [ivanhao/pvetools](https://github.com/ivanhao/pvetools) | proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme. |
 | [getAsterisk/gooey](https://github.com/getAsterisk/gooey) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 |
-| [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation. |
+| [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。 |
 | [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown AI note-taking software. |
 | [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 是一个多协议代理服务框架的瑞士军刀，设计用于轻量、灵活的网络代理与数据传输任务。 |
 | [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) | Fully customizable AI chatbot component for your website |
