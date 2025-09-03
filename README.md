@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-09-02 01:24:27*
+*最后更新于: 2025-09-03 01:19:27*
 
 | 项目名 | About |
 | ------ | ----- |
+| [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Claude-Code Flow |
 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
 | [Archeb/opentrace](https://github.com/Archeb/opentrace) | A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。 |
