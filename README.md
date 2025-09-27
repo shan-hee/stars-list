@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-09-26 01:21:32*
+*最后更新于: 2025-09-27 01:18:19*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -16,7 +16,7 @@
 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
 | [apache/echarts](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser |
 | [ceocok/Docker_container_migration](https://github.com/ceocok/Docker_container_migration) | This is a lossless one-click script for automatically migrating Docker containers — efficient, convenient, and very easy to use. |
-| [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | Lightweight MCP Server for Computer Use in Windows |
+| [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | MCP Server for Computer Use in Windows |
 | [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy) | The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. |
 | [isc30/ryzen-gpu-passthrough-proxmox](https://github.com/isc30/ryzen-gpu-passthrough-proxmox) | Get the Ryzen processors with AMD Radeon 680M/780M integrated graphics or RDNA2/RDNA3 GPUs running with Proxmox, GPU passthrough and UEFI included. |
 | [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. |
