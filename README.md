@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-09-27 01:18:19*
+*最后更新于: 2025-09-28 01:36:38*
 
 | 项目名 | About |
 | ------ | ----- |
+| [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
 | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | GUI for SingBox |
 | [LukeGus/Termix](https://github.com/LukeGus/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
 | [shan-hee/EasySSH](https://github.com/shan-hee/EasySSH) | 一个基于Web的现代化SSH客户端，提供高效、安全、易用的远程服务器管理体验 |
