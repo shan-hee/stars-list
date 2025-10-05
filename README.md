@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-10-04 01:17:33*
+*最后更新于: 2025-10-05 01:35:53*
 
 | 项目名 | About |
 | ------ | ----- |
+| [withfig/autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
 | [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
 | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | GUI for SingBox |
 | [LukeGus/Termix](https://github.com/LukeGus/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
