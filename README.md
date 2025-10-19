@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-10-18 01:19:05*
+*最后更新于: 2025-10-19 01:39:58*
 
 | 项目名 | About |
 | ------ | ----- |
+| [cjh-store/cc-cli](https://github.com/cjh-store/cc-cli) | claude code工具集合 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用 |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API |
