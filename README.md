@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-10-23 01:24:37*
+*最后更新于: 2025-10-24 01:20:47*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -13,7 +13,7 @@
 | [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
 | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | GUI for SingBox |
 | [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
-| [shan-hee/EasySSH](https://github.com/shan-hee/EasySSH) | 一个基于Web的现代化SSH客户端，提供高效、安全、易用的远程服务器管理体验 |
+| [shan-hee/EasySSH_vue](https://github.com/shan-hee/EasySSH_vue) | 一个基于Web的现代化SSH客户端，提供高效、安全、易用的远程服务器管理体验 |
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex |
 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
@@ -86,7 +86,7 @@
 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websites. |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | Online collaborative Whiteboard that is simple, free, easy to use and  to deploy |
-| [usememos/memos](https://github.com/usememos/memos) | A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations. |
+| [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas. |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active. |
 | [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods |
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
