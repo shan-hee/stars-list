@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-11-07 01:27:20*
+*最后更新于: 2025-11-08 01:22:41*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -8,7 +8,7 @@
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | [cjh-store/cc-cli](https://github.com/cjh-store/cc-cli) | claude code工具集合 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用 |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop app for managing and switching provider configurations & MCP servers for Claude Code and Codex. |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
