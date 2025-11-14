@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-11-13 01:37:00*
+*最后更新于: 2025-11-14 01:28:18*
 
 | 项目名 | About |
 | ------ | ----- |
+| [sunzsh/internal-chat](https://github.com/sunzsh/internal-chat) | 纯html写的局域网文字/文件p2p传输工具 |
 | [discourse/discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple. |
 | [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) | 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
