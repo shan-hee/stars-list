@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-11-16 01:40:52*
+*最后更新于: 2025-11-17 01:37:17*
 
 | 项目名 | About |
 | ------ | ----- |
+| [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application |
 | [sunzsh/internal-chat](https://github.com/sunzsh/internal-chat) | 纯html写的局域网文字/文件p2p传输工具 |
 | [discourse/discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple. |
 | [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) | 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。 |
@@ -97,7 +98,7 @@
 | [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) | ✨ Perfect virtual display for game streaming |
 | [bohesocool/you2api](https://github.com/bohesocool/you2api) | 无描述 |
 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. |
-| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译 |
+| [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
