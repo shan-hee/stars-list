@@ -1,9 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-11-20 01:25:55*
+*最后更新于: 2025-11-21 01:26:50*
 
 | 项目名 | About |
 | ------ | ----- |
+| [RapidAI/TableStructureRec](https://github.com/RapidAI/TableStructureRec) | 整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX     Organize the currently open-source optimal table recognition models, improve pre-processing and post-processing, and convert the models to ONNX. |
+| [al1abb/invoify](https://github.com/al1abb/invoify) | An invoice generator app built using Next.js, Typescript, and Shadcn |
 | [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application |
 | [sunzsh/internal-chat](https://github.com/sunzsh/internal-chat) | 纯html写的局域网文字/文件p2p传输工具 |
 | [discourse/discourse](https://github.com/discourse/discourse) | A platform for community discussion. Free, open, simple. |
