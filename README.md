@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-11-24 01:42:36*
+*最后更新于: 2025-11-25 01:28:04*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -103,7 +103,7 @@
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
-| [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) | 一个多功能Linux服务器WEB终端面板(webSSH&webSFTP). 更新通知TG： |
+| [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) | 一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP). 更新通知TG： |
 | [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) | 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray |
 | [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) | Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms. |
 | [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) | 安知鱼主题，这是一个简洁美丽的hexo主题。 |
