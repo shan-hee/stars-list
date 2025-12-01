@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-11-30 01:46:31*
+*最后更新于: 2025-12-01 01:53:40*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -50,7 +50,6 @@
 | [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
 | [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化 |
 | [kleinrui/sub-box](https://github.com/kleinrui/sub-box) | 一个简单的订阅管理服务 |
-| [shiyi11yi/Sub-Hub](https://github.com/shiyi11yi/Sub-Hub) | 无描述 |
 | [yuju520/YujuToolBox](https://github.com/yuju520/YujuToolBox) | 一个Shell脚本工具箱 |
 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 | [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
