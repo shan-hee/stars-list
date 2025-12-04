@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-03 01:38:19*
+*最后更新于: 2025-12-04 01:39:15*
 
 | 项目名 | About |
 | ------ | ----- |
+| [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) | PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新 |
 | [RapidAI/TableStructureRec](https://github.com/RapidAI/TableStructureRec) | 整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX     Organize the currently open-source optimal table recognition models, improve pre-processing and post-processing, and convert the models to ONNX. |
 | [al1abb/invoify](https://github.com/al1abb/invoify) | An invoice generator app built using Next.js, Typescript, and Shadcn |
 | [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application |
