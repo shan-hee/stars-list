@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-05 01:39:39*
+*最后更新于: 2025-12-06 01:25:56*
 
 | 项目名 | About |
 | ------ | ----- |
+| [ours1505/AliMPay](https://github.com/ours1505/AliMPay) | 无描述 |
 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
 | [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) | PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新 |
 | [RapidAI/TableStructureRec](https://github.com/RapidAI/TableStructureRec) | 整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX     Organize the currently open-source optimal table recognition models, improve pre-processing and post-processing, and convert the models to ONNX. |
