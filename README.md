@@ -1,9 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-07 01:46:41*
+*最后更新于: 2025-12-08 01:40:06*
 
 | 项目名 | About |
 | ------ | ----- |
+| [BingZi-233/check-cx](https://github.com/BingZi-233/check-cx) | 无描述 |
+| [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) | 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。 |
 | [ours1505/AliMPay](https://github.com/ours1505/AliMPay) | 无描述 |
 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
 | [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) | PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新 |
