@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-09 01:38:55*
+*最后更新于: 2025-12-10 01:41:29*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -9,7 +9,7 @@
 | [ours1505/AliMPay](https://github.com/ours1505/AliMPay) | 无描述 |
 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
 | [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) | PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新 |
-| [RapidAI/TableStructureRec](https://github.com/RapidAI/TableStructureRec) | 整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX     Organize the currently open-source optimal table recognition models, improve pre-processing and post-processing, and convert the models to ONNX. |
+| [RapidAI/TableStructureRec](https://github.com/RapidAI/TableStructureRec) | 整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX \|  Organize the currently open-source optimal table recognition models, improve pre-processing and post-processing, and convert the models to ONNX. |
 | [al1abb/invoify](https://github.com/al1abb/invoify) | An invoice generator app built using Next.js, Typescript, and Shadcn |
 | [novnc/noVNC](https://github.com/novnc/noVNC) | VNC client web application |
 | [sunzsh/internal-chat](https://github.com/sunzsh/internal-chat) | 纯html写的局域网文字/文件p2p传输工具 |
@@ -20,7 +20,7 @@
 | [shan-hee/EasySSH-NextJS](https://github.com/shan-hee/EasySSH-NextJS) | 无描述 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI. |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
 | [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
