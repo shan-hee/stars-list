@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-12 01:41:34*
+*最后更新于: 2025-12-14 01:47:24*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -83,7 +83,7 @@
 | [J3n5en/bye](https://github.com/J3n5en/bye) | 无描述 |
 | [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) | 🚀 一键部署个人的 ChatGPT 镜像站 |
 | [lanqian528/chat2api](https://github.com/lanqian528/chat2api) | A service that can convert ChatGPT on the web to OpenAI API format. |
-| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better. |
+| [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 | [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) | 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file |
 | [Cp0204/quark-auto-save](https://github.com/Cp0204/quark-auto-save) | 夸克网盘签到、自动转存、命名整理、发推送提醒和刷新媒体库一条龙 |
 | [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) | 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你 |
