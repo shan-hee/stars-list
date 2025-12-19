@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-18 01:38:17*
+*最后更新于: 2025-12-19 01:41:34*
 
 | 项目名 | About |
 | ------ | ----- |
+| [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) | 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 \| One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly. |
 | [BingZi-233/check-cx](https://github.com/BingZi-233/check-cx) | 实时跟踪 OpenAI、Gemini、Anthropic 等 AI 模型 API 的可用性、延迟与错误信息 |
 | [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) | 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。 |
 | [ours1505/AliMPay](https://github.com/ours1505/AliMPay) | 无描述 |
