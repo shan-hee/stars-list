@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-24 01:40:52*
+*最后更新于: 2025-12-25 01:42:38*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -30,7 +30,7 @@
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex |
 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
-| [Archeb/opentrace](https://github.com/Archeb/opentrace) | A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。 |
+| [Archeb/opentrace](https://github.com/Archeb/opentrace) | Cross-platform GUI traceroute tool. 一个跨平台可视化路由追踪工具。 |
 | [MoonWeSif/qadchat](https://github.com/MoonWeSif/qadchat) | 一款优雅易用的 AI Web应用，基于 NextChat 二次开发，添加了许多新特性、新功能！ |
 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | A terminal for the web |
 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
