@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2025-12-29 01:50:32*
+*最后更新于: 2025-12-30 01:42:52*
 
 | 项目名 | About |
 | ------ | ----- |
+| [linux-do/credit](https://github.com/linux-do/credit) | LINUX DO Credit |
 | [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) | 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 \| One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly. |
 | [BingZi-233/check-cx](https://github.com/BingZi-233/check-cx) | 实时跟踪 OpenAI、Gemini、Anthropic 等 AI 模型 API 的可用性、延迟与错误信息 |
 | [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) | 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。 |
@@ -30,7 +31,7 @@
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex |
 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
-| [Archeb/opentrace](https://github.com/Archeb/opentrace) | Cross-platform GUI traceroute tool. 一个跨平台可视化路由追踪工具。 |
+| [Archeb/opentrace](https://github.com/Archeb/opentrace) | Open Source Visualized Network Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。 |
 | [MoonWeSif/qadchat](https://github.com/MoonWeSif/qadchat) | 一款优雅易用的 AI Web应用，基于 NextChat 二次开发，添加了许多新特性、新功能！ |
 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | A terminal for the web |
 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
