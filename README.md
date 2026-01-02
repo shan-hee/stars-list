@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-01-01 01:53:02*
+*最后更新于: 2026-01-02 01:44:47*
 
 | 项目名 | About |
 | ------ | ----- |
+| [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) | 将 GeminiCLI 和 antigravity 转换为 OpenAI 和 GEMINI API 接口 |
 | [linux-do/credit](https://github.com/linux-do/credit) | LINUX DO Credit |
 | [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) | 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 \| One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly. |
 | [BingZi-233/check-cx](https://github.com/BingZi-233/check-cx) | 实时跟踪 OpenAI、Gemini、Anthropic 等 AI 模型 API 的可用性、延迟与错误信息 |
