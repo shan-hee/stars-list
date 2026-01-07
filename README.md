@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-01-06 01:44:52*
+*最后更新于: 2026-01-07 01:44:31*
 
 | 项目名 | About |
 | ------ | ----- |
+| [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | NAS媒体库自动化管理工具 |
 | [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) | 将 GeminiCLI 和 antigravity 转换为 OpenAI 和 GEMINI API 接口 |
 | [linux-do/credit](https://github.com/linux-do/credit) | LINUX DO Credit |
 | [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) | 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 \| One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly. |
@@ -105,7 +106,7 @@
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
 | [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) | ✨ Perfect virtual display for game streaming |
 | [bohesocool/you2api](https://github.com/bohesocool/you2api) | 无描述 |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application. |
 | [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
