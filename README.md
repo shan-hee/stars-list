@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-01-16 01:46:13*
+*最后更新于: 2026-01-17 01:40:48*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -68,7 +68,7 @@
 | [cedar2025/Xboard](https://github.com/cedar2025/Xboard) | High-performance panel based on V2board secondary development supporting new protocols and new features |
 | [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) | Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detection and cross-platform compatibility. |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
-| [dempfi/ayu](https://github.com/dempfi/ayu) | 🎨🖌 Modern Sublime Text theme |
+| [dempfi/ayu](https://github.com/dempfi/ayu) | 🎨🖌 Modern, bright color theme for Sublime Text |
 | [linux-do/cdk](https://github.com/linux-do/cdk) | LINUX DO CD key |
 | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
