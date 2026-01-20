@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-01-19 01:50:45*
+*最后更新于: 2026-01-20 01:45:56*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -141,7 +141,7 @@
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针\|面板 等, 自动化部署、批量保号、进程防杀、消息推送 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) | VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs |
-| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)  |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)  |
 | [cmliu/socks5-for-serv00](https://github.com/cmliu/socks5-for-serv00) | 在 Serv00 和 CT8 机器上一步到位地安装和配置 SOCKS5 & nezha-agent，并将其用于 cmliu/edgetunnel 项目，帮助解锁 ChatGPT 等服务。通过一键脚本实现代理安装，使用 Crontab 保持进程活跃，并借助 GitHub Actions 实现帐号续期与自动化管理，确保长期稳定运行。 |
 | [keaeye/WyKeaeye](https://github.com/keaeye/WyKeaeye) | JavaScript混淆教程 |
 | [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) | CFnat 为 Windows 用户设计的 GUI 程序界面。 |
