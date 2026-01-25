@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-01-24 01:42:50*
+*最后更新于: 2026-01-25 01:55:34*
 
 | 项目名 | About |
 | ------ | ----- |
+| [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient! |
 | [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | NAS媒体库自动化管理工具 |
 | [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) | 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口 |
 | [linux-do/credit](https://github.com/linux-do/credit) | LINUX DO Credit |
