@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-01-28 01:48:18*
+*最后更新于: 2026-01-29 02:01:05*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -11,7 +11,7 @@
 | [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) | 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 \| One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly. |
 | [BingZi-233/check-cx](https://github.com/BingZi-233/check-cx) | 实时跟踪 OpenAI、Gemini、Anthropic 等 AI 模型 API 的可用性、延迟与错误信息 |
 | [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) | 支持 AnyRouter、AgentRouter 的多平台多账号签到，理论兼容所有基于 NewAPI、OneAPI 的平台。 |
-| [ours1505/AliMPay](https://github.com/ours1505/AliMPay) | 无描述 |
+| [MiaM1ku/AliMPay](https://github.com/MiaM1ku/AliMPay) | 无描述 |
 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 |
 | [CooperJiang/PixelPunk](https://github.com/CooperJiang/PixelPunk) | PixelPunk - 赛博图床 - 一款酷炫的现代化图床、结合AI实现智能标签、审核、使用方便智能、且持续免费更新 |
 | [RapidAI/TableStructureRec](https://github.com/RapidAI/TableStructureRec) | 整理目前开源的最优表格识别模型，完善前后处理，模型转换为ONNX \|  Organize the currently open-source optimal table recognition models, improve pre-processing and post-processing, and convert the models to ONNX. |
@@ -125,7 +125,7 @@
 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
 | [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) | 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁 |
 | [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) | 开源节点订阅转换生成管理系统 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them via an OpenAI-compatible API, with native support for Claude (Messages) and Gemini formats. |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 |
 | [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site |
 | [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) | 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能 |
 | [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘） |
