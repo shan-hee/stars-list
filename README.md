@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-02-05 02:03:56*
+*最后更新于: 2026-02-06 02:04:04*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -45,7 +45,7 @@
 | [isc30/ryzen-gpu-passthrough-proxmox](https://github.com/isc30/ryzen-gpu-passthrough-proxmox) | Get the Ryzen processors with AMD Radeon 680M/780M integrated graphics or RDNA2/RDNA3 GPUs running with Proxmox, GPU passthrough and UEFI included. |
 | [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) | An opensource OpenWrt variant for mainland China users. |
 | [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) | Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes. |
-| [imzyb/MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin |
+| [imzyb/MiSub](https://github.com/imzyb/MiSub) | 测试站，密码admin123 |
 | [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. |
 | [openwrt/openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 | [ivanhao/pvetools](https://github.com/ivanhao/pvetools) | proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme. |
