@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-02-26 02:03:48*
+*最后更新于: 2026-02-27 02:02:52*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -77,7 +77,7 @@
 | [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
 | [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) | 社区驱动的服务器脚本快捷收藏夹 |
-| [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式的工具 |
+| [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具 |
 | [airbnb/lottie-web](https://github.com/airbnb/lottie-web) | Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/ |
 | [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) | Free, simple, fast interactive diagrams for any GitHub repository |
 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
