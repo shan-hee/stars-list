@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-03-07 01:57:15*
+*最后更新于: 2026-03-08 02:06:23*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -34,7 +34,7 @@
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex |
 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
-| [Archeb/opentrace](https://github.com/Archeb/opentrace) | Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. 跨平台可视化路由追踪工具。 |
+| [Archeb/opentrace](https://github.com/Archeb/opentrace) | Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. |
 | [MoonWeSif/qadchat](https://github.com/MoonWeSif/qadchat) | 一款优雅易用的 AI Web应用，基于 NextChat 二次开发，添加了许多新特性、新功能！ |
 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | A terminal for the web |
 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
@@ -101,7 +101,7 @@
 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websites. |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | Online collaborative Whiteboard that is simple, free, easy to use and  to deploy |
-| [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [usememos/memos](https://github.com/usememos/memos) | An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees. |
 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active. |
 | [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods |
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
@@ -127,7 +127,7 @@
 | [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) | 开源节点订阅转换生成管理系统 |
 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 |
 | [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site |
-| [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) | 新版已重构！详细查看README。基于 Cloudflare Workers 的在线剪贴板和文件分享服务，支持 Markdown、阅后即焚、文本/文件分享、密码保护等功能 |
+| [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) | An online clipboard and file sharing service based on Cloudflare Workers, supporting Markdown, burn-after-reading, text/file sharing, password protection, and more. |
 | [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | Open-source file hosting solution based on CloudFlare  (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘） |
 | [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) |
 | [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) | 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接 |
