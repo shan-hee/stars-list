@@ -1,11 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-03-17 02:07:05*
+*最后更新于: 2026-03-19 02:11:33*
 
 | 项目名 | About |
 | ------ | ----- |
 | [ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher) | 无描述 |
-| [ztx888/open-webui](https://github.com/ztx888/open-webui) | 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计 |
+| [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) | 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计 |
 | [shan-hee/EasySSH-NextJS](https://github.com/shan-hee/EasySSH-NextJS) | 无描述 |
 | [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient! |
 | [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | NAS媒体库自动化管理工具 |
