@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-03-23 02:12:56*
+*最后更新于: 2026-03-24 02:05:01*
 
 | 项目名 | About |
 | ------ | ----- |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
 | [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。 |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more |
 | [1sdv/TripStar](https://github.com/1sdv/TripStar) | 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的“信息过载”和“决策疲劳”问题。 |
