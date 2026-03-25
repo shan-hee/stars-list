@@ -1,9 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-03-24 02:05:01*
+*最后更新于: 2026-03-25 02:10:24*
 
 | 项目名 | About |
 | ------ | ----- |
+| [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 |
+| [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
 | [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。 |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more |
