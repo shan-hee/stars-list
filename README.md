@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-04-03 02:24:00*
+*最后更新于: 2026-04-04 02:08:42*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -159,6 +159,6 @@
 | [cmliu/CF-Workers-SpeedTestURL](https://github.com/cmliu/CF-Workers-SpeedTestURL) | 使用 CloudFlare Workers 搭建专属CloudFlareSpeedTest测速地址 |
 | [cmliu/CF-Workers-TEXT2KV](https://github.com/cmliu/CF-Workers-TEXT2KV) | 这个是一个通过 Cloudflare Workers 搭建，将文本文件存储到 Cloudflare Workers KV 键值存储中，并且可以通过 URL 请求读取或更新这些文本文件。 |
 | [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 |
-| [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel 2.0 VLESS/Trojan 多功能面板 |
+| [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan 多功能面板 |
 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | 无描述 |
 | [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web \| iOS \| MacOS \| Android \|  Linux \| Windows |
