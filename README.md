@@ -1,11 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-04-05 02:30:29*
+*最后更新于: 2026-04-06 02:31:46*
 
 | 项目名 | About |
 | ------ | ----- |
 | [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps |
-| [chenglou/pretext](https://github.com/chenglou/pretext) | 无描述 |
+| [chenglou/pretext](https://github.com/chenglou/pretext) | Fast, accurate & comprehensive text measurement & layout |
 | [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 |
 | [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
