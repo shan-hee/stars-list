@@ -1,13 +1,13 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-04-15 02:32:18*
+*最后更新于: 2026-04-16 02:39:03*
 
 | 项目名 | About |
 | ------ | ----- |
 | [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) | 在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档 |
 | [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) | PDF2zh for Zotero \| Zotero PDF中文翻译插件 |
 | [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | EarTrumpet - Volume Control for Windows |
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | The highest-scoring AI memory system ever benchmarked. And it's free. |
+| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | The best-benchmarked open-source AI memory system. And it's free. |
 | [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps |
 | [chenglou/pretext](https://github.com/chenglou/pretext) | Fast, accurate & comprehensive text measurement & layout |
 | [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 |
