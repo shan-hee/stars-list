@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-04-16 02:39:03*
+*最后更新于: 2026-04-17 02:34:52*
 
 | 项目名 | About |
 | ------ | ----- |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) | 在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档 |
 | [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh) | PDF2zh for Zotero \| Zotero PDF中文翻译插件 |
 | [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) | EarTrumpet - Volume Control for Windows |
@@ -40,7 +41,7 @@
 | [cjh-store/cc-cli](https://github.com/cjh-store/cc-cli) | claude code工具集合 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
 | [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
