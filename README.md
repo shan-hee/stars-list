@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-04-28 02:53:43*
+*最后更新于: 2026-04-29 02:52:05*
 
 | 项目名 | About |
 | ------ | ----- |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) | 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   \|  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration |
 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | [wxyhgk/retain-pdf](https://github.com/wxyhgk/retain-pdf) | 在保留版面、公式与结构的前提下进行 PDF 翻译，适用于科研与技术文档 |
@@ -42,7 +43,7 @@
 | [cjh-store/cc-cli](https://github.com/cjh-store/cc-cli) | claude code工具集合 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. |
-| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API |
+| [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
 | [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
@@ -74,7 +75,6 @@
 | [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) | Fully customizable AI chatbot component for your website |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
 | [DustinWin/ruleset_geodata](https://github.com/DustinWin/ruleset_geodata) | 定制适合 Clash、mihomo 和 sing-box 内核的 ruleset&geodata 文件 |
-| [passeway/root](https://github.com/passeway/root) | 通过生成或输入密码更改 root 用户密码，修改 SSH 配置（允许 root 登录并启用密码验证），甲骨文云&谷歌云开启root登录模式。 |
 | [ArcSurge/Termius-Pro-zh_CN](https://github.com/ArcSurge/Termius-Pro-zh_CN) | Termius汉化 |
 | [kleinrui/sub-box](https://github.com/kleinrui/sub-box) | 一个简单的订阅管理服务 |
 | [yuju520/YujuToolBox](https://github.com/yuju520/YujuToolBox) | 一个Shell脚本工具箱 |
