@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-05-04 02:51:19*
+*最后更新于: 2026-05-05 02:43:31*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -23,7 +23,7 @@
 | [ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher) | 无描述 |
 | [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) | 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计 |
 | [shan-hee/EasySSH-NextJS](https://github.com/shan-hee/EasySSH-NextJS) | 无描述 |
-| [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) | Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient! |
+| [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient! |
 | [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | NAS媒体库自动化管理工具 |
 | [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) | 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口 |
 | [linux-do/credit](https://github.com/linux-do/credit) | LINUX DO Credit |
