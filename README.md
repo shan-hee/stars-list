@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-05-11 03:31:06*
+*最后更新于: 2026-05-12 02:55:49*
 
 | 项目名 | About |
 | ------ | ----- |
+| [XingHehy/netease-musician-task](https://github.com/XingHehy/netease-musician-task) | 网易云音乐自动签到发布动态、自动完成音乐人任务，支持自动登录、多用户、docker一键部署、企业微信通知 |
 | [looplj/axonhub](https://github.com/looplj/axonhub) | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. |
 | [bestruirui/octopus](https://github.com/bestruirui/octopus) | One Hub All LLMs For You \| 为个人打造的 LLM API 聚合服务 |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you |
@@ -45,7 +46,7 @@
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | [cjh-store/cc-cli](https://github.com/cjh-store/cc-cli) | claude code工具集合 |
 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
