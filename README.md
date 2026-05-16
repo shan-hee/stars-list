@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-05-15 03:30:02*
+*最后更新于: 2026-05-16 02:52:54*
 
 | 项目名 | About |
 | ------ | ----- |
+| [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) | Bitwarden-compatible server running on Cloudflare Workers |
 | [XingHehy/netease-musician-task](https://github.com/XingHehy/netease-musician-task) | 网易云音乐自动签到发布动态、自动完成音乐人任务，支持自动登录、多用户、docker一键部署、企业微信通知 |
 | [looplj/axonhub](https://github.com/looplj/axonhub) | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. |
 | [bestruirui/octopus](https://github.com/bestruirui/octopus) | One Hub All LLMs For You \| 为个人打造的 LLM API 聚合服务 |
