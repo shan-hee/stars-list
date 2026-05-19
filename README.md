@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-05-18 03:39:48*
+*最后更新于: 2026-05-19 03:33:08*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -139,7 +139,7 @@
 | [1234567Yang/cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex) | Cloudflare超级代理，无服务器代理，Duckduckgo代理（可用AI聊天，包含GPT4o/Claude3），Github加速，支持解锁Libgen，在线代理。现已支持多平台部署。Cloudflare super proxy, setting up a free serverless proxy by using Cloudflare worker, support Duckduckgo / Libgen. Now you can deploy this project on different platforms. |
 | [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) | 安知鱼主题，这是一个简洁美丽的hexo主题。 |
 | [we0-dev/we0](https://github.com/we0-dev/we0) | we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable |
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online. |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
 | [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files） |
 | [electerm/electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win) |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
