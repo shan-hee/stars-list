@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-05-27 03:49:17*
+*最后更新于: 2026-05-28 03:35:16*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -55,7 +55,7 @@
 | [withfig/autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell |
 | [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
 | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast. |
-| [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
+| [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Self-hosted SSH and remote desktop management. |
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex |
 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
