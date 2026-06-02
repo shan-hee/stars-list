@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-06-01 04:03:11*
+*最后更新于: 2026-06-02 03:57:42*
 
 | 项目名 | About |
 | ------ | ----- |
+| [LeoKon3/MizuPanel](https://github.com/LeoKon3/MizuPanel) | 无描述 |
 | [suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt) | 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。 |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go |
 | [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) | Bitwarden-compatible server running on Cloudflare Workers |
