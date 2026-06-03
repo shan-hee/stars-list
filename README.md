@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-06-02 03:57:42*
+*最后更新于: 2026-06-03 04:05:09*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -57,6 +57,7 @@
 | [Teernage/vue3-drag-directive](https://github.com/Teernage/vue3-drag-directive) | 一个自定义指令实现丝滑拖拽列表 |
 | [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) | Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast. |
 | [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) | Self-hosted SSH and remote desktop management. |
+| [shan-hee/EasySSH_vue](https://github.com/shan-hee/EasySSH_vue) | 一个基于Web的现代化SSH客户端，提供高效、安全、易用的远程服务器管理体验 |
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex |
 | [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
@@ -154,7 +155,7 @@
 | [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site |
 | [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) | An online clipboard and file sharing service based on Cloudflare Workers, supporting Markdown, burn-after-reading, text/file sharing, password protection, and more. |
 | [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities. |
-| [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.) |
+| [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required. |
 | [cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB) | 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接 |
 | [vfhky/serv00_ct8_nezha](https://github.com/vfhky/serv00_ct8_nezha) | serv00和ct8主机一键安装哪吒探针和多主机保活 |
 | [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) | 基于nginx-proxy-manager翻译的中文版本 |
