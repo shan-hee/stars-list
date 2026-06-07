@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-06-06 03:28:45*
+*最后更新于: 2026-06-07 03:55:26*
 
 | 项目名 | About |
 | ------ | ----- |
+| [beilunyang/moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉   |
 | [LeoKon3/MizuPanel](https://github.com/LeoKon3/MizuPanel) | 无描述 |
 | [suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt) | 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。 |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go |
@@ -128,7 +129,7 @@
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | Online collaborative Whiteboard that is simple, free, easy to use and  to deploy |
 | [usememos/memos](https://github.com/usememos/memos) | Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. |
-| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active. |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
 | [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods |
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
 | [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) | ✨ Perfect virtual display for game streaming |
