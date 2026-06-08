@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-06-07 03:55:26*
+*最后更新于: 2026-06-08 03:59:52*
 
 | 项目名 | About |
 | ------ | ----- |
+| [getpaseo/paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile |
 | [beilunyang/moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉   |
 | [LeoKon3/MizuPanel](https://github.com/LeoKon3/MizuPanel) | 无描述 |
 | [suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt) | 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。 |
