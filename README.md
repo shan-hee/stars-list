@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-06-15 04:16:13*
+*最后更新于: 2026-06-16 04:05:57*
 
 | 项目名 | About |
 | ------ | ----- |
+| [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. |
 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile |
 | [beilunyang/moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉   |
 | [LeoKon3/MizuPanel](https://github.com/LeoKon3/MizuPanel) | 无描述 |
