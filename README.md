@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-06 03:30:37*
+*最后更新于: 2026-07-07 03:20:55*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -38,7 +38,7 @@
 | [ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher) | 无描述 |
 | [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) | 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计 |
 | [shan-hee/EasySSH-NextJS](https://github.com/shan-hee/EasySSH-NextJS) | 无描述 |
-| [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient! |
+| [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover. |
 | [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) | NAS媒体库自动化管理工具 |
 | [su-kaka/gcli2api](https://github.com/su-kaka/gcli2api) | 将 GeminiCLI 和 Antigravity 转换为 OpenAI 、GEMINI 和 Claude API 接口 |
 | [linux-do/credit](https://github.com/linux-do/credit) | LINUX DO Credit |
@@ -174,7 +174,7 @@
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针\|面板 等, 自动化部署、批量保号、进程防杀、消息推送 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 | [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) | VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs |
-| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)  |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto)  |
 | [cmliu/socks5-for-serv00](https://github.com/cmliu/socks5-for-serv00) | 在 Serv00 和 CT8 机器上一步到位地安装和配置 SOCKS5 & nezha-agent，并将其用于 cmliu/edgetunnel 项目，帮助解锁 ChatGPT 等服务。通过一键脚本实现代理安装，使用 Crontab 保持进程活跃，并借助 GitHub Actions 实现帐号续期与自动化管理，确保长期稳定运行。 |
 | [keaeye/WyKeaeye](https://github.com/keaeye/WyKeaeye) | JavaScript混淆教程 |
 | [cmliu/CFnat-Windows-GUI](https://github.com/cmliu/CFnat-Windows-GUI) | CFnat 为 Windows 用户设计的 GUI 程序界面。 |
