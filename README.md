@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-13 02:44:30*
+*最后更新于: 2026-07-14 02:27:24*
 
 | 项目名 | About |
 | ------ | ----- |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。 |
 | [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) | An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. |
 | [shuding/cobe](https://github.com/shuding/cobe) | 5KB WebGL globe lib. |
 | [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser |
