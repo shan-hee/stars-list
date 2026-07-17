@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-16 02:33:11*
+*最后更新于: 2026-07-17 02:35:14*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -16,7 +16,7 @@
 | [suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt) | 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。 |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go |
 | [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) | Bitwarden-compatible server running on Cloudflare Workers |
-| [XingHehy/netease-musician-task](https://github.com/XingHehy/netease-musician-task) | 网易云音乐自动签到发布动态、自动完成音乐人任务，支持自动登录、多用户、docker一键部署、企业微信通知 |
+| [XingHehy/netease-musician-task](https://github.com/XingHehy/netease-musician-task) | 网易云音乐自动签到发布动态、自动完成音乐人任务，支持自动登录、多用户、docker一键部署、WebHook通知 |
 | [looplj/axonhub](https://github.com/looplj/axonhub) | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. |
 | [bestruirui/octopus](https://github.com/bestruirui/octopus) | One Hub All LLMs For You \| 为个人打造的 LLM API 聚合网关 |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you |
