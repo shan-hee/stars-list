@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-18 02:26:37*
+*最后更新于: 2026-07-19 02:39:59*
 
 | 项目名 | About |
 | ------ | ----- |
+| [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 🐸 Read Frog - Open Source Immersive Translate \| 🐸 陪读蛙 - 开源沉浸式翻译 |
 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 |
 | [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
 | [t8y2/dbx](https://github.com/t8y2/dbx) | 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。 |
@@ -32,7 +33,7 @@
 | [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps |
 | [chenglou/pretext](https://github.com/chenglou/pretext) | Fast, accurate & comprehensive text measurement & layout |
 | [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 |
-| [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. |
+| [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Free, open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
 | [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。 |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more |
@@ -154,7 +155,7 @@
 | [we0-dev/we0](https://github.com/we0-dev/we0) | we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
 | [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files） |
-| [electerm/electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win) |
+| [electerm/electerm](https://github.com/electerm/electerm) | 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android) |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
