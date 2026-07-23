@@ -1,13 +1,13 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-22 02:35:40*
+*最后更新于: 2026-07-23 02:41:33*
 
 | 项目名 | About |
 | ------ | ----- |
 | [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 🐸 Read Frog - Open Source Immersive Translate \| 🐸 陪读蛙 - 开源沉浸式翻译 |
 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 |
 | [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。 |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 |
 | [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) | An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. |
 | [shuding/cobe](https://github.com/shuding/cobe) | 5KB WebGL globe lib. |
 | [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser |
