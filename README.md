@@ -1,9 +1,12 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-23 02:41:33*
+*最后更新于: 2026-07-24 02:37:41*
 
 | 项目名 | About |
 | ------ | ----- |
+| [NanoRocky/home](https://github.com/NanoRocky/home) | 个人主页，我的个人主页，个人主页源码，主页模板，homepage |
+| [s0xDk/ghostty-blackhole](https://github.com/s0xDk/ghostty-blackhole) | Ghostty Blackhole puts a real, ray-traced black hole inside your terminal. It grows as Claude Code's context window fills up, live. A fresh session is a quiet hole in the corner. A full one swallows half your screen. You'll always see /compact coming. |
+| [imsyy/home](https://github.com/imsyy/home) | 个人主页，我的个人主页，个人主页源码，主页模板，homepage |
 | [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 🐸 Read Frog - Open Source Immersive Translate \| 🐸 陪读蛙 - 开源沉浸式翻译 |
 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 |
 | [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
@@ -173,7 +176,7 @@
 | [eooce/Sing-box](https://github.com/eooce/Sing-box) | 既然来了，就留下你的Star吧！Serv00 \| CT8 \| Hostuno \| VPS \| 游戏机 \| sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务, 可添加anytls,socks5,ss-2022等协议 |
 | [crazypeace/huashengdun-webssh](https://github.com/crazypeace/huashengdun-webssh) | 增加生成sshlink功能，方便收藏，下次使用不需要输入密码。 |
 | [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
-| [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本 |
+| [yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) | Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能、本地IP订阅生成 |
 | [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) | CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)；Socks5/http本地代理脚本：可选ECH-TLS、普通TLS、无TLS三种代理模式 |
 | [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) | serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针\|面板 等, 自动化部署、批量保号、进程防杀、消息推送 |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
