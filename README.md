@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-25 02:35:24*
+*最后更新于: 2026-07-26 02:44:05*
 
 | 项目名 | About |
 | ------ | ----- |
+| [metowolf/Meting](https://github.com/metowolf/Meting) | :cake: Wow, such a powerful music API framework |
 | [NanoRocky/home](https://github.com/NanoRocky/home) | 个人主页，我的个人主页，个人主页源码，主页模板，homepage |
 | [s0xDk/ghostty-blackhole](https://github.com/s0xDk/ghostty-blackhole) | Ghostty Blackhole puts a real, ray-traced black hole inside your terminal. It grows as Claude Code's context window fills up, live. A fresh session is a quiet hole in the corner. A full one swallows half your screen. You'll always see /compact coming. |
 | [imsyy/home](https://github.com/imsyy/home) | 个人主页，我的个人主页，个人主页源码，主页模板，homepage |
