@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-07-30 02:21:50*
+*最后更新于: 2026-07-31 02:46:03*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -96,7 +96,7 @@
 | [winfunc/opcode](https://github.com/winfunc/opcode) | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。 |
-| [codexu/note-gen](https://github.com/codexu/note-gen) | A cross-platform Markdown AI note-taking software. |
+| [codexu/note-gen](https://github.com/codexu/note-gen) | Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. |
 | [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 是一个多协议代理服务框架的瑞士军刀，设计用于轻量、灵活的网络代理与数据传输任务。 |
 | [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) | Fully customizable AI chatbot component for your website |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
