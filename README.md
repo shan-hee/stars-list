@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-08-08 01:36:00*
+*最后更新于: 2026-08-09 01:41:01*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -39,7 +39,7 @@
 | [vadimdemedes/ink](https://github.com/vadimdemedes/ink) | 🌈 React for interactive command-line apps |
 | [chenglou/pretext](https://github.com/chenglou/pretext) | Fast, accurate & comprehensive text measurement & layout |
 | [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 |
-| [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Free, open source, AI-friendly admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. |
+| [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Free, open source, AI-friendly admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
 | [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 精选优质 Web 设计风格，提供文档、组件模板、代码片段， 以及可直接导出的 AI Rules。 |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more |
