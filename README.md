@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-08-13 01:54:46*
+*最后更新于: 2026-08-14 01:52:34*
 
 | 项目名 | About |
 | ------ | ----- |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. |
 | [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | OpenFlare is an open-source CDN orchestration and edge security platform. It supports reverse proxies, centralized configuration synchronization, secure intranet penetration (Tunnels), dynamic WAF protection, and anti-CC challenges. |
 | [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) | ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件 |
 | [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) | 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口 |
