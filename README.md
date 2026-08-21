@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-08-20 01:10:28*
+*最后更新于: 2026-08-21 01:14:17*
 
 | 项目名 | About |
 | ------ | ----- |
+| [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) | Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects. |
 | [motiondivision/motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. |
 | [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | OpenFlare is an open-source CDN orchestration and edge security platform. It supports reverse proxy, centralized configuration synchronization, in-network tunneling (Tunnels), dynamic WAF protection, and CC defense challenges. |
@@ -17,7 +18,7 @@
 | [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) | 🐸 Read Frog - Language Learning & Translate \| 🐸 陪读蛙 - 语言学习与翻译 |
 | [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 |
 | [ratatui/ratatui](https://github.com/ratatui/ratatui) | A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs |
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. \| 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。 |
 | [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) | An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. |
 | [shuding/cobe](https://github.com/shuding/cobe) | 5KB WebGL globe lib. |
 | [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser |
