@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-08-21 01:14:17*
+*最后更新于: 2026-08-22 01:10:19*
 
 | 项目名 | About |
 | ------ | ----- |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. |
 | [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) | Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects. |
 | [motiondivision/motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. |
