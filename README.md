@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-08-24 01:13:55*
+*最后更新于: 2026-08-25 01:12:24*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -176,7 +176,7 @@
 | [bin456789/reinstall](https://github.com/bin456789/reinstall) | 一键DD/重装脚本 (One-click reinstall OS on VPS) |
 | [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules) | 小火箭 shadowrocket 配置文件 模块 脚本 module sgmodule 图文教程 规则 分流 破解 解锁 |
 | [gooaclok819/sublinkX](https://github.com/gooaclok819/sublinkX) | 开源节点订阅转换生成管理系统 |
-| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 |
+| [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. |
 | [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) | 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site |
 | [ling-drag0n/CloudPaste-old](https://github.com/ling-drag0n/CloudPaste-old) | An online clipboard and file sharing service based on Cloudflare Workers, supporting Markdown, burn-after-reading, text/file sharing, password protection, and more. |
 | [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) | 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities. |
