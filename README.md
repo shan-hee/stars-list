@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-09-04 03:07:21*
+*最后更新于: 2026-09-05 03:09:48*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -202,4 +202,4 @@
 | [cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) | 自动化批量替换生成优选线路 VMess / VLESS / Trojan 节点的 优选订阅生成器 |
 | [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) | edgetunnel2 VLESS/Trojan/SS 多功能面板 |
 | [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) | 无描述 |
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Light and Fast AI Assistant. Support: Web \| iOS \| MacOS \| Android \|  Linux \| Windows |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows. |
