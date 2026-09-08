@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-09-07 03:07:46*
+*最后更新于: 2026-09-08 03:16:23*
 
 | 项目名 | About |
 | ------ | ----- |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat💬🚀 |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 | [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) | Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy |
 | [netchx/netch](https://github.com/netchx/netch) | A simple proxy client |
