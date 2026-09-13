@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-09-12 03:20:11*
+*最后更新于: 2026-09-13 03:25:14*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -76,7 +76,7 @@
 | [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) | 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。 |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 | [cjh-store/cc-cli](https://github.com/cjh-store/cc-cli) | claude code工具集合 |
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API |
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
