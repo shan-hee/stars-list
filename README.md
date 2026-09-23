@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-09-22 03:32:04*
+*最后更新于: 2026-09-23 03:32:19*
 
 | 项目名 | About |
 | ------ | ----- |
+| [aiporters/funclaude-deploy](https://github.com/aiporters/funclaude-deploy) | Deployment assets for funclaude — docker-compose, nginx, env templates |
 | [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) | Apple's Liquid Glass effect for React |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
