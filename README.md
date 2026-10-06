@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-10-05 04:18:07*
+*最后更新于: 2026-10-06 05:06:19*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -109,7 +109,7 @@
 | [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。 |
 | [codexu/note-gen](https://github.com/codexu/note-gen) | Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI. |
-| [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 是一个多协议代理服务框架的瑞士军刀，设计用于轻量、灵活的网络代理与数据传输任务。 |
+| [passeway/sing-box](https://github.com/passeway/sing-box) | sing-box 一键安装与管理脚本，支持 Debian、Ubuntu、Alpine，集成 Hysteria2、VLESS Reality、AnyTLS、Shadowsocks 和 Snell，自动生成客户端配置及分享链接。 |
 | [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) | Fully customizable AI chatbot component for your website |
 | [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) | Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. |
 | [DustinWin/ruleset_geodata](https://github.com/DustinWin/ruleset_geodata) | 定制适合 Clash、mihomo 和 sing-box 内核的 ruleset&geodata 文件 |
