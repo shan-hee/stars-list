@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-10-09 04:47:09*
+*最后更新于: 2026-10-10 04:32:33*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -153,7 +153,7 @@
 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age |
 | [massgravel/TSforge](https://github.com/massgravel/TSforge) | A collection of activation/evaluation extension methods for Windows Vista through 11. |
 | [xykt/NetQuality](https://github.com/xykt/NetQuality) | 网络质量检测脚本 - Network Quality Check Script |
-| [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | An open source collection of animated, interactive & fully customizable React components for building memorable websites. |
+| [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | The biggest open source library of animated, interactive & fully customizable React and NextJS components for building memorable websites. |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | Online collaborative Whiteboard that is simple, free, easy to use and  to deploy |
 | [usememos/memos](https://github.com/usememos/memos) | A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted. |
