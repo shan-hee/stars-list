@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-10-11 04:16:38*
+*最后更新于: 2026-10-12 04:33:37*
 
 | 项目名 | About |
 | ------ | ----- |
+| [wang4386/CDT-Monitor](https://github.com/wang4386/CDT-Monitor) | CDT Monitor 是一个用于阿里云 CDT 流量监控、ECS 实例自动化控制和费用观察的轻量级单机控制台。HTTP 服务、定时调度器、并发 Worker、SQLite、API 和前端静态资源全部集成在一个 Go 进程中，适合通过 Docker 或独立二进制快速部署。 |
 | [aiporters/funclaude-deploy](https://github.com/aiporters/funclaude-deploy) | Deployment assets for funclaude — docker-compose, nginx, env templates |
 | [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) | Apple's Liquid Glass effect for React |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 |
@@ -14,7 +15,7 @@
 | [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) | Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects. |
 | [motiondivision/motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. |
-| [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | OpenFlare is an open-source CDN orchestration and edge security platform. It supports reverse proxy, centralized configuration synchronization, in-network tunneling (Tunnels), dynamic WAF protection, and CC defense challenges. |
+| [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | Next-Gen Distributed Reverse Proxy & Edge Security Gateway for OpenResty / Nginx |
 | [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) | ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件 |
 | [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) | 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口 |
 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
