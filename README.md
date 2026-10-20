@@ -1,9 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-10-19 03:27:16*
+*最后更新于: 2026-10-20 03:36:44*
 
 | 项目名 | About |
 | ------ | ----- |
+| [Jasa-Chi-Ray/chatgpt-mirror](https://github.com/Jasa-Chi-Ray/chatgpt-mirror) | 一键部署支持最新模型的ChatGPT镜像站🪐 |
+| [basketikun/claude2api](https://github.com/basketikun/claude2api) |  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。 |
 | [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app |
 | [wang4386/CDT-Monitor](https://github.com/wang4386/CDT-Monitor) | CDT Monitor 是一个用于阿里云 CDT 流量监控、ECS 实例自动化控制和费用观察的轻量级单机控制台。HTTP 服务、定时调度器、并发 Worker、SQLite、API 和前端静态资源全部集成在一个 Go 进程中，适合通过 Docker 或独立二进制快速部署。 |
 | [aiporters/funclaude-deploy](https://github.com/aiporters/funclaude-deploy) | Deployment assets for funclaude — docker-compose, nginx, env templates |
@@ -158,7 +160,7 @@
 | [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents. |
 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [lovasoa/whitebophir](https://github.com/lovasoa/whitebophir) | Online collaborative Whiteboard that is simple, free, easy to use and  to deploy |
-| [usememos/memos](https://github.com/usememos/memos) | A timeline for your thoughts. Just type. It stays yours. |
+| [usememos/memos](https://github.com/usememos/memos) | Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share. |
 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
 | [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods |
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
