@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-10-29 04:35:23*
+*最后更新于: 2026-10-30 04:35:08*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -59,11 +59,10 @@
 | [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 |
 | [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Free, open source, AI-first admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. |
-| [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | Open-source visual style library for AI-generated UI — 148 curated styles with design tokens, prompts and MCP. \| 面向 AI 生成网页的开源视觉风格库：148 套精选风格，支持 MCP、Agent Skill 与 npm CLI。 |
+| [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 149 curated web & UI design styles, each with copy-ready AI prompts, design tokens and component recipes. \| StyleKit（stylekit.top）：149 种网页与 UI 设计风格，每种附可直接复制的 AI 提示词、设计 tokens 与组件配方。 |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more |
 | [1sdv/TripStar](https://github.com/1sdv/TripStar) | 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。 |
 | [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) | Steam depot downloader utilizing the SteamKit2 library. |
-| [ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher](https://github.com/ObjectAscended/CDP-bug-MouseEvent-.screenX-.screenY-patcher) | 无描述 |
 | [ztx888/HaloWebUI](https://github.com/ztx888/HaloWebUI) | 基于官方OpenWebUI，汉化界面提高中文使用体验，增加了模型计费和用量统计 |
 | [shan-hee/EasySSH-NextJS](https://github.com/shan-hee/EasySSH-NextJS) | 无描述 |
 | [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover. |
@@ -167,7 +166,7 @@
 | [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 60 Methods |
 | [nezhahq/nezha](https://github.com/nezhahq/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool |
 | [nomi-san/parsec-vdd](https://github.com/nomi-san/parsec-vdd) | ✨ Perfect virtual display for game streaming |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | Your AI workspace for models, agents, and productivity. |
 | [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) | Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器 |
 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool |
 | [2dust/v2rayN](https://github.com/2dust/v2rayN) | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
