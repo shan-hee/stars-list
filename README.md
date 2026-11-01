@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-10-31 04:17:31*
+*最后更新于: 2026-11-01 04:38:12*
 
 | 项目名 | About |
 | ------ | ----- |
+| [aqualang89/shipnotes-components](https://github.com/aqualang89/shipnotes-components) | Free UI for your AI apps: particle orbs that listen, think and talk, jelly cards and more. Live demos, MIT. |
 | [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [fyne-io/fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design |
 | [Jasa-Chi-Ray/chatgpt-mirror](https://github.com/Jasa-Chi-Ray/chatgpt-mirror) | 一键部署支持最新模型的ChatGPT镜像站🪐 |
