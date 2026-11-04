@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-02 04:40:15*
+*最后更新于: 2026-11-04 04:59:31*
 
 | 项目名 | About |
 | ------ | ----- |
+| [GUYI-AI/gugu](https://github.com/GUYI-AI/gugu) | Gugu (咕咕): personal assistant, chat and device client — source release |
 | [aqualang89/shipnotes-components](https://github.com/aqualang89/shipnotes-components) | Free UI for your AI apps: particle orbs that listen, think and talk, jelly cards and more. Live demos, MIT. |
 | [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [fyne-io/fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design |
@@ -95,7 +96,7 @@
 | [shan-hee/EasySSH_vue](https://github.com/shan-hee/EasySSH_vue) | 一个基于Web的现代化SSH客户端，提供高效、安全、易用的远程服务器管理体验 |
 | [xishang0128/sparkle](https://github.com/xishang0128/sparkle) | :electron: Another Mihomo GUI. (🛠building...) |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | Zero-Config Code Flow for Claude code & Codex |
-| [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 REALITY 协议；支持 TUIC，Trojan，Hysteria2 等所有常见的协议 |
+| [233boy/sing-box](https://github.com/233boy/sing-box) | 最好用的 sing-box 一键安装脚本 & 管理脚本，自动创建 Hysteria2 协议；支持 TUIC，Trojan，REALITY 等所有常见的协议 |
 | [Archeb/opentrace](https://github.com/Archeb/opentrace) | Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux. |
 | [MoonWeSif/qadchat](https://github.com/MoonWeSif/qadchat) | 一款优雅易用的 AI Web应用，基于 NextChat 二次开发，添加了许多新特性、新功能！ |
 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | A terminal for the web |
