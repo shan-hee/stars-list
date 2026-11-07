@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-06 05:20:45*
+*最后更新于: 2026-11-07 04:50:12*
 
 | 项目名 | About |
 | ------ | ----- |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
 | [GUYI-AI/gugu](https://github.com/GUYI-AI/gugu) | Personal assistant, agent group chat and devices. An application built for AGI. |
 | [aqualang89/shipnotes-components](https://github.com/aqualang89/shipnotes-components) | Free UI for your AI apps: particle orbs that listen, think and talk, jelly cards and more. Live demos, MIT. |
@@ -62,7 +63,7 @@
 | [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard) | Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 |
 | [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) | Free, open source, AI-first admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and billing. MIT licensed. |
 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | An AI skill that provides design intelligence for building professional UI/UX across multiple platforms. |
-| [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | 149 curated web & UI design styles, each with copy-ready AI prompts, design tokens and component recipes. \| StyleKit（stylekit.top）：149 种网页与 UI 设计风格，每种附可直接复制的 AI 提示词、设计 tokens 与组件配方。 |
+| [AnxForever/stylekit](https://github.com/AnxForever/stylekit) | StyleKit（stylekit.top）— 149 curated web & UI design styles with copy-ready AI prompts, design tokens and component recipes. Open-source, by AnxForever. |
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more |
 | [1sdv/TripStar](https://github.com/1sdv/TripStar) | 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。 |
 | [SteamRE/DepotDownloader](https://github.com/SteamRE/DepotDownloader) | Steam depot downloader utilizing the SteamKit2 library. |
