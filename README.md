@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-07 04:50:12*
+*最后更新于: 2026-11-08 04:41:17*
 
 | 项目名 | About |
 | ------ | ----- |
+| [arnold117/iOS-NOIR](https://github.com/arnold117/iOS-NOIR) | No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
 | [GUYI-AI/gugu](https://github.com/GUYI-AI/gugu) | Personal assistant, agent group chat and devices. An application built for AGI. |
