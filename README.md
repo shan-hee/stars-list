@@ -1,13 +1,13 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-09 04:51:22*
+*最后更新于: 2026-11-10 06:05:42*
 
 | 项目名 | About |
 | ------ | ----- |
 | [arnold117/iOS-NOIR](https://github.com/arnold117/iOS-NOIR) | No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
-| [GUYI-AI/gugu](https://github.com/GUYI-AI/gugu) | Personal assistant, agent group chat and devices. An application built for AGI. |
+| [GUYI-AI/gugu](https://github.com/GUYI-AI/gugu) | gugu connects your agents and your people: sharing context, handing off work, thinking together. |
 | [aqualang89/shipnotes-components](https://github.com/aqualang89/shipnotes-components) | Free UI for your AI apps: particle orbs that listen, think and talk, jelly cards and more. Live demos, MIT. |
 | [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [fyne-io/fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design |
@@ -19,7 +19,7 @@
 | [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) | Apple's Liquid Glass effect for React |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
-| [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) | Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic |
+| [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) | Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic |
 | [netchx/netch](https://github.com/netchx/netch) | A simple proxy client |
 | [dataease/SQLBot](https://github.com/dataease/SQLBot) | 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. |
 | [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) | Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects. |
