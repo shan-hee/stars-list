@@ -1,10 +1,12 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-12 05:55:32*
+*最后更新于: 2026-11-16 04:58:00*
 
 | 项目名 | About |
 | ------ | ----- |
-| [WizisCool/oh-my-cpa](https://github.com/WizisCool/oh-my-cpa) | Self-hosted control plane & usage observability console for CLIProxyAPI (CPA) — AI providers, client keys, streaming telemetry, and model cost snapshots. |
+| [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) | GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU, |
+| [tylertms/Stela](https://github.com/tylertms/Stela) | A translation-based Apple Silicon layer for x86-64 PCs |
+| [WizisCool/oh-my-cpa](https://github.com/WizisCool/oh-my-cpa) | Modern web console for CLIProxyAPI v8+ with provider and OAuth management, live routing, request analytics, pricing, and MCP. |
 | [arnold117/iOS-NOIR](https://github.com/arnold117/iOS-NOIR) | No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media accounts by username across social networks |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages |
