@@ -1,6 +1,6 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-20 05:53:21*
+*最后更新于: 2026-11-23 05:57:31*
 
 | 项目名 | About |
 | ------ | ----- |
@@ -22,13 +22,13 @@
 | [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) | Apple's Liquid Glass effect for React |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | Typescript/React Library for AI Chat 💬🚀 |
 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | Prompt as Code \| GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
-| [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) | Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic |
+| [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) | Proxy Client to force proxy to any Windows, MacOS, Linux, Android & iOS Application TCP and UDP traffic |
 | [netchx/netch](https://github.com/netchx/netch) | A simple proxy client |
 | [dataease/SQLBot](https://github.com/dataease/SQLBot) | 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. |
 | [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) | Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects. |
 | [motiondivision/motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. |
-| [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | Next-Gen Distributed Reverse Proxy & Edge Security Gateway for OpenResty / Nginx |
+| [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | Next-Gen Distributed Reverse Proxy & Edge Security Gateway |
 | [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) | ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件 |
 | [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) | 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口 |
 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
@@ -141,7 +141,7 @@
 | [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) | CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot |
 | [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) | 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。 |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs |
-| [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. |
+| [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) | Production-ready fullstack but simple mail server running inside a container. |
 | [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 |
 | [NodeSeekDev/NodeScriptKit](https://github.com/NodeSeekDev/NodeScriptKit) | 社区驱动的服务器脚本快捷收藏夹 |
 | [beck-8/subs-check](https://github.com/beck-8/subs-check) | 订阅转换、测速、测活、流媒体检测、重命名、导出为任意格式订阅的工具 |
