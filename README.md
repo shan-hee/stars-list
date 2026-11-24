@@ -1,9 +1,10 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-23 05:57:31*
+*最后更新于: 2026-11-24 08:36:51*
 
 | 项目名 | About |
 | ------ | ----- |
+| [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily. |
 | [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) | GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU, |
 | [tylertms/Stela](https://github.com/tylertms/Stela) | A translation-based Apple Silicon layer for x86-64 PCs |
 | [WizisCool/oh-my-cpa](https://github.com/WizisCool/oh-my-cpa) | Modern web console for CLIProxyAPI v8+ with provider and OAuth management, live routing, request analytics, pricing, and MCP. |
@@ -47,7 +48,7 @@
 | [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) | AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime. |
 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile |
 | [beilunyang/moemail](https://github.com/beilunyang/moemail) | A cute temporary email service built with NextJS + Cloudflare technology stack 🎉 \| 一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉   |
-| [LeoKon3/MizuPanel](https://github.com/LeoKon3/MizuPanel) | 无描述 |
+| [lyone0x/MizuPanel](https://github.com/lyone0x/MizuPanel) | 无描述 |
 | [suyancc/openai-plus-vxt](https://github.com/suyancc/openai-plus-vxt) | 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。 |
 | [wailsapp/wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go |
 | [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) | Bitwarden-compatible server running on Cloudflare Workers |
@@ -185,7 +186,7 @@
 | [we0-dev/we0](https://github.com/we0-dev/we0) | we0 is an AI code editor for development programmers and product managers. same v0, bolt.new,lovable |
 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | 🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week. |
 | [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) | 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files） |
-| [electerm/electerm](https://github.com/electerm/electerm) | 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS) |
+| [electerm/electerm](https://github.com/electerm/electerm) | Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS) |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) | 🌩 Self-hosted file management and sharing system, supports multiple storage providers |
 | [plait-board/drawnix](https://github.com/plait-board/drawnix) | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
