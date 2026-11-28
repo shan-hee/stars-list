@@ -1,9 +1,11 @@
 # 我的GitHub Stars
 
-*最后更新于: 2026-11-26 07:00:09*
+*最后更新于: 2026-11-28 06:29:29*
 
 | 项目名 | About |
 | ------ | ----- |
+| [lxf746/any-auto-register](https://github.com/lxf746/any-auto-register) | Auto-register & manage accounts for ChatGPT, Cursor, Kiro, Grok, Windsurf, Trae & 13+ AI platforms · Protocol/browser dual-mode · Plugin-based · One-click Mac/Windows desktop app |
+| [dofastted/vm2api](https://github.com/dofastted/vm2api) | vm2api 使用虚拟机完全拟真方案的订阅转api |
 | [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) | Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily. |
 | [SebasKitten/Grand-V](https://github.com/SebasKitten/Grand-V) | GTA V reverse engineered to run natviely in an chromium based web browser, Using WebaAssembly and WebGPU, |
 | [tylertms/Stela](https://github.com/tylertms/Stela) | A translation-based Apple Silicon layer for x86-64 PCs |
@@ -15,7 +17,7 @@
 | [aqualang89/shipnotes-components](https://github.com/aqualang89/shipnotes-components) | Free UI for your AI apps: particle orbs that listen, think and talk, jelly cards and more. Live demos, MIT. |
 | [morluto/rea](https://github.com/morluto/rea) | Reverse engineer anything with agents, from app behavior down to native binaries. |
 | [fyne-io/fyne](https://github.com/fyne-io/fyne) | Cross platform GUI toolkit in Go inspired by Material Design |
-| [Jasa-Chi-Ray/chatgpt-mirror](https://github.com/Jasa-Chi-Ray/chatgpt-mirror) | 一键部署支持最新模型的ChatGPT镜像站🪐 |
+| [Jasa-Chi-Ray/chatgpt-mirror](https://github.com/Jasa-Chi-Ray/chatgpt-mirror) | 一键在2026年部署支持最新模型的ChatGPT镜像站🪐 |
 | [basketikun/claude2api](https://github.com/basketikun/claude2api) |  Claude2API 是基于 Go + Docker 构建的 Claude.ai API 兼容网关、账号池与网页镜像服务，支持 OpenAI Chat Completions、Responses 和 Anthropic Messages 接口，可接   入 Claude Code、Codex CLI 等客户端，并提供账号轮询、流式输出、多轮对话、多模态图片、Thinking、Function Calling、Tool Use、API Key 鉴权、调用日志和后台管理。 |
 | [HanaokaYuzu/Gemini-API](https://github.com/HanaokaYuzu/Gemini-API) | ✨ Reverse-engineered Python API for Google Gemini web app |
 | [wang4386/CDT-Monitor](https://github.com/wang4386/CDT-Monitor) | CDT Monitor 是一个用于阿里云 CDT 流量监控、ECS 实例自动化控制和费用观察的轻量级单机控制台。HTTP 服务、定时调度器、并发 Worker、SQLite、API 和前端静态资源全部集成在一个 Go 进程中，适合通过 Docker 或独立二进制快速部署。 |
@@ -29,7 +31,7 @@
 | [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) | Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects. |
 | [motiondivision/motion](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | DeepSeek Harness: Everything is a Plugin. |
-| [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | Next-Gen Distributed Reverse Proxy & Edge Security Gateway |
+| [Rain-kl/OpenFlare](https://github.com/Rain-kl/OpenFlare) | Distributed Reverse Proxy, Edge Security Gateway, and Authoritative SmartDNS |
 | [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) | ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件 |
 | [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) | 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口 |
 | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D. |
